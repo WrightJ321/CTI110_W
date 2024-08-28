@@ -1,8 +1,9 @@
 # Python Code practice
 CTI110_Wright
 This repository is owned by J Wright.
-1. Backuo for CTI 110 Homework
-2. Example of programming skills
-3. Practice using source control 
+This Repo mainly contains different python code practice for assignments for college
+Some HTML is thrown in there as well.
+- Example of programming skills
+- Practice using source control 
 
 
